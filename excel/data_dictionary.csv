@@ -1,0 +1,16 @@
+field_name,description,example
+order_id,Unique order identifier,1001
+order_date,Date of order,2024-01-03
+region,Geographic region,North
+store,Store name,Store A
+category,Product category,Electronics
+product,Product name,Headphones
+unit_price,Unit sales price,79.99
+unit_cost,Unit cost,45.00
+quantity,Units sold in order line,3
+discount_pct,Discount applied (0-1),0.10
+revenue,Derived: unit_price*quantity*(1-discount),215.97
+gross_margin,Derived: (unit_price-unit_cost)*quantity,104.97
+order_month,Derived: month of order_date,2024-01-01
+
+
