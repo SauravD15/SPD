@@ -1,0 +1,13 @@
+order_id,order_date,region,store,category,product,unit_price,unit_cost,quantity,discount_pct
+1001,2024-01-03,North,Store A,Electronics,Headphones,79.99,45.00,3,0.00
+1002,2024-01-05,West,Store B,Home,Blender,59.99,30.00,2,0.10
+1003,2024-01-07,East,Store C,Apparel,Jacket,109.00,55.00,1,0.15
+1004,2024-01-10,South,Store D,Toys,Board Game,29.99,12.00,4,0.00
+1005,2024-02-02,North,Store A,Electronics,Keyboard,49.99,28.00,2,0.05
+1006,2024-02-11,West,Store B,Home,Vacuum,149.00,95.00,1,0.00
+1007,2024-02-15,East,Store C,Apparel,T-Shirt,19.99,6.00,5,0.20
+1008,2024-03-01,South,Store E,Grocery,Coffee Beans,12.99,6.50,10,0.00
+1009,2024-03-12,North,Store F,Electronics,Mouse,34.99,16.00,3,0.00
+1010,2024-03-20,West,Store B,Home,Air Fryer,129.00,80.00,1,0.10
+
+
